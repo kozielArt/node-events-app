@@ -13,5 +13,6 @@ npm install
 2. Run Server
 
 ```bash
+Start Mongodb locally.
 node server.js
 ```
